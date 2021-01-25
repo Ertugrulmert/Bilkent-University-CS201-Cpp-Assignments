@@ -15,4 +15,4 @@ Measurement, analysis and comparison of the algorithmic complexity of two algori
 Implementation of a library system using linked lists
 
 ### Assignment 4
-Implementation of a shortest path finding (cheapest flight path finding) algorithm for a directed flight graph. 
+Implementation of a shortest path finding (cheapest flight path finding) algorithm for a directed flight graph using stacks
