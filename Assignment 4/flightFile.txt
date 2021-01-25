@@ -1,0 +1,11 @@
+P,Winnipeg,1,100
+R,X,2,150
+Quebec City,X,3,200
+Winnipeg,S,4,250
+S,T,5,300
+T,Winnipeg,6,350
+Winnipeg,York,7,400
+York,R,8,450
+P,R,9,500
+York,Z,10,550
+R,Z,11,600
